@@ -31,10 +31,19 @@ header {
     padding-left: 300px;
     padding-right: 300px;
 }
+#method p {
+    padding-left: 25px;    
+}
 footer {
     padding-left: 300px;
     padding-right: 300px;
 }
 #image {
     text-align:center ;
+}
+hr { 
+    color: rgb(0, 217, 255);
+    background: rgb(0, 217, 255);
+    border: 0;
+    height: 1px;
 }
