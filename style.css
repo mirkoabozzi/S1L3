@@ -1,0 +1,40 @@
+#link h4{
+    color: red;
+    margin-bottom: 0;
+}
+#link a{
+    color: rgb(127, 255, 172);
+}
+header {
+    text-align:center ;
+}
+#intestazione {
+    text-align: center;
+    background: linear-gradient(180deg, hsl(43, 100%, 50%), #d0bcae00);
+    padding: 10px;
+}
+#image p {
+    color: lightgray;
+}
+#focaccia {
+    padding-left: 300px;
+    padding-right: 300px;
+}
+#focaccia h1 {
+    text-align: center;
+}
+#recipe {
+    padding-left: 300px;
+    padding-right: 300px;
+}
+#method {
+    padding-left: 300px;
+    padding-right: 300px;
+}
+footer {
+    padding-left: 300px;
+    padding-right: 300px;
+}
+#image {
+    text-align:center ;
+}
