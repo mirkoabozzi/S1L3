@@ -16,6 +16,9 @@ header {
 #image p {
     color: lightgray;
 }
+#focaccia h1 {
+    text-align: center;
+}
 #image {
     text-align:center ;
 }
@@ -33,7 +36,7 @@ main {
     max-width: 700px;
 }
 #method p {
-    padding-left: 25px;    
+    padding-left: 40px;    
 }
 footer {
     margin: auto;
